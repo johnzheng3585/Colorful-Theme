@@ -44,10 +44,10 @@
 *  "copyright": "版权信息"
 
 ## clientConfig.json
-"name": "Clash Verge", (客户端名)
-"platform": "Windows", (客户端系统)
-"icon": "https://github.com/dc8683/picx-images-hosting/raw/master/rocket/Clash.9gwri62wr1.webp",  (客户端图标)
-"url": "https://clashverge.dev/"  (客户端下载地址)
+*  "name": "Clash Verge", (客户端名)
+*  "platform": "Windows", (客户端系统)
+*  "icon": "https://github.com/dc8683/picx-images-hosting/raw/master/rocket/Clash.9gwri62wr1.webp",  (客户端图标)
+*  "url": "https://clashverge.dev/"  (客户端下载地址)
 
 ### 原创设计Colorful风格前端
 
