@@ -40,6 +40,7 @@
 *  "showLandingPage": true,   (落地页开关，true为开启/false为关闭)
 *  "logoUrl": "图片LOGO，如无图片LOGO则显示网站名称",
 *  "apiBaseUrl": "后端链接",
+*  "enableCaptcha": true,  (登录/注册/忘记密码页验证码开关，true为开启/false为关闭)
 *  "siteDescription": "首页副标题",
 *  "copyright": "版权信息"
 
