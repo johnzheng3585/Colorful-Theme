@@ -35,8 +35,7 @@
 *  5.反向代理到您输入的端口或者默认端口 3000 
 
 ### 配置文件说明
-
-
+## config.json
 *  "siteName": "网站名称",
 *  "showLandingPage": true,   (落地页开关，true为开启/false为关闭)
 *  "logoUrl": "图片LOGO，如无图片LOGO则显示网站名称",
@@ -44,7 +43,11 @@
 *  "siteDescription": "首页副标题",
 *  "copyright": "版权信息"
 
-
+## clientConfig.json
+"name": "Clash Verge", (客户端名)
+"platform": "Windows", (客户端系统)
+"icon": "https://github.com/dc8683/picx-images-hosting/raw/master/rocket/Clash.9gwri62wr1.webp",  (客户端图标)
+"url": "https://clashverge.dev/"  (客户端下载地址)
 
 ### 原创设计Colorful风格前端
 
