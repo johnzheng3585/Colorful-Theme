@@ -6,5 +6,6 @@
     "crispId": "Crisp ID 从官网中获取",
     "enableCaptcha": true,
     "siteDescription": "首页副标题",
-    "copyright": "底部版权信息"
+    "copyright": "底部版权信息",
+    "enableDailyCheckin": true
 }

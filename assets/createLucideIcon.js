@@ -1,4 +1,4 @@
-import{I as n}from"./index.js";/**
+import{J as n}from"./index.js";/**
  * @license lucide-vue-next v0.562.0 - ISC
  *
  * This source code is licensed under the ISC license.
