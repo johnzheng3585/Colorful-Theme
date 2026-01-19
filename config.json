@@ -7,5 +7,6 @@
     "enableCaptcha": true,
     "siteDescription": "首页副标题",
     "copyright": "底部版权信息",
+    "landingPageStyle": "style1",
     "enableDailyCheckin": true
 }
