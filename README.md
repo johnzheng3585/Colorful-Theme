@@ -44,6 +44,7 @@
 *  "enableCaptcha": true,  (登录/注册/忘记密码页验证码开关，true为开启/false为关闭)
 *  "siteDescription": "首页副标题",
 *  "copyright": "版权信息"
+*  "landingPageStyle": "style1", (落地页切换开关，style1为默认风格落地页/video为苍穹风格落地页)
 *  "enableDailyCheckin": true (每日签到开关，需配合xboard插件使用，插件可在TG群下载。true为开启/false为关闭)
 
 #### clientConfig.json
