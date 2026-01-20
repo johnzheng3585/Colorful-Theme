@@ -52,7 +52,8 @@
 *  "platform": "客户端系统", 
 *  "icon": "客户端图标",  
 *  "url": "客户端下载地址" 
-
+*  "tutorial_url": "使用文档外部链接",
+*  "tutorial_id": "后端知识库ID"
 ### 原创设计Colorful风格前端
 
 ![](https://github.com/kulesang/img/blob/main/1.png?raw=true)
