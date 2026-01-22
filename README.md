@@ -46,6 +46,10 @@
 *  "copyright": "版权信息"
 *  "landingPageStyle": "style1", (落地页切换开关，style1为默认风格落地页/video为苍穹风格落地页/card为清新风格落地页)
 *  "enableDailyCheckin": true (每日签到开关，需配合xboard插件使用，插件可在TG群下载。true为开启/false为关闭)
+*  "telegramSupport": "Telegram客服链接",
+*  "supportEmail": "客服邮箱",
+*  "supportHours": "7x24 小时在线客服",
+*  "chatWorkerUrl": "客服api" (需要此功能进群找管理，付费项，如不需要此功能去掉客服api就不会显示客服按钮了。)
 
 #### clientConfig.json
 *  "name": "客户端名", 
